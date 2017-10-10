@@ -3,7 +3,7 @@
 The requirements for this assignment can be found [here](https://phonedude.github.io/cs891-f17/week06-assignment.html).
 The goal being to use the following four tools to create our own collections (select the highlighted ones to go to mine):
 
-- [Archive-it](https://partner.archive-it.org/536/collections/9554)
+- [Archive-it](https://archive-it.org/collections/9554)
 - [webrecorder.io](https://webrecorder.io/grantat/catalonia-independence)
 - WAIL
 - WARCreate / Wail
