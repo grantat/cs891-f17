@@ -34,3 +34,5 @@ Webrecorder was kind of weird at first since I attempted to use it on my native 
 I'm assuming I had issues with my chrome plugins which caused some pages not to load.
 Luckily since they had a built in browser to emulate my browsing experience it worked out well I believe.
 I really liked the feature for saving videos and photo streams.
+
+WARCreate worked for most but it seemed much slower than the desktop version of WAIL. Twos URI that just never finished were my last two seeds.
