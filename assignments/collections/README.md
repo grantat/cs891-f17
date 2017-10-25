@@ -26,13 +26,15 @@ The goal being to use the following four tools to create our own collections (se
 - http://www.cnn.com/2017/10/10/europe/catalonia-how-we-got-here/index.html
 - http://www.telegraph.co.uk/news/2017/10/10/spain-braced-possible-catalonian-independence-declaration/
 
-### Remarks
+### Review of tools
 
-When using archive-it its kind of a just [let it run its course](https://www.goodreads.com/quotes/1197919-206-let-nature-take-its-course-by-letting-each-thing) kind of application.
+My review of each of the tools can be found in my [tools-review.md](./tools-review.md) file.
+
+<!-- When using archive-it its kind of a just [let it run its course](https://www.goodreads.com/quotes/1197919-206-let-nature-take-its-course-by-letting-each-thing) kind of application.
 You give it seeds to start from, then it can stay on those seeds if the user specifies it, or it will crawl the URIs found on the original seeds.
 Webrecorder was kind of weird at first since I attempted to use it on my native browser.
 I'm assuming I had issues with my chrome plugins which caused some pages not to load.
 Luckily since they had a built in browser to emulate my browsing experience it worked out well I believe.
 I really liked the feature for saving videos and photo streams.
 
-WARCreate worked for most but it seemed much slower than the desktop version of WAIL. Twos URI that just never finished were my last two seeds.
+WARCreate worked for most but it seemed much slower than the desktop version of WAIL. Twos URI that just never finished were my last two seeds. -->

@@ -1,0 +1,13 @@
+# macOS, latex, python and R
+__MACOSX
+*.DS_Store
+*.pyc
+*.aux
+*.out
+*.log
+*synctex.gz
+*.Rhistory
+*.RData
+*__pycache__
+# ignore papers saved
+/presentations/*/papers
