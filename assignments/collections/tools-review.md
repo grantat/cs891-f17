@@ -125,7 +125,7 @@ Although I couldn't actually use WARCreate with my last two seeds, cnn.com and t
 ### Situations to prefer this tool
 
 Although I would rate WARCreate last of the four tools, I think its a remarkably simple tool.
-I would use this tool in situations where I wanted a quick WARC file, but not for a age that has a ton of content.
+I would use this tool in situations where I wanted a quick WARC file, but not for a page that has a ton of content.
 With this tool I can simply hit the button to start WARC creation and then wait for it to download.
 This is great because I wouldn't have to go to an official archiving site or open an application like WAIL and then insert seeds.
 
