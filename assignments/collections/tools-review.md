@@ -157,7 +157,9 @@ Document changes, aside from the first seed with a 404 response, were pretty app
 Since I took all of my seeds from News sites document changes were only really noted due to these as shown below for one of my [cnn seeds](http://money.cnn.com/2017/09/29/news/economy/catalonia-independence-spain-economy/index.html).
 
 Before:
-![alt text](./images/ads_orig.png)
+
+![alt text](./images/ads_before.png)
 
 After:
-![alt text](./images/ads_now.png)
+
+![alt text](./images/ads_after.png)
