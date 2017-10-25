@@ -9,5 +9,7 @@ __MACOSX
 *.Rhistory
 *.RData
 *__pycache__
+
 # ignore papers saved
 /presentations/*/papers
+*storytelling.pdf
