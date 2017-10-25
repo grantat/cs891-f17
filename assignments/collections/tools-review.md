@@ -158,8 +158,8 @@ Since I took all of my seeds from News sites document changes were only really n
 
 Before:
 
-![alt text](./images/ads_before.png)
+![alt text](https://raw.githubusercontent.com/grantat/cs891-f17/2596f7f7ab1dc003fc2b8d4a4237de64fa462981/assignments/collections/images/ads_before.png)
 
 After:
 
-![alt text](./images/ads_after.png)
+![alt text](https://raw.githubusercontent.com/grantat/cs891-f17/2596f7f7ab1dc003fc2b8d4a4237de64fa462981/assignments/collections/images/ads_after.png)
