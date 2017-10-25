@@ -36,6 +36,7 @@ I'd have to say this is my favorite tool overall as it provided a unique simplic
 - Start and walk away without worrying
 - Automatically prevents duplicate pages and multimedia
 - Allows scheduling of crawls
+- Crawl depth options
 
 ### Disadvantages
 
@@ -43,7 +44,7 @@ I'd have to say this is my favorite tool overall as it provided a unique simplic
 - Doesn't ignore robots.txt unless specified
 - Requires a bit of work for large number of seeds to block content
 
-#### Situations to prefer this tool
+### Situations to prefer this tool
 
 In a hierarchy I would put this tool at the top of the four listed.
 Its simple, can start and on stop based on a schedule, and is independent of a user's local computer. I would prefer this tool over others if I wanted to get as much content as possible starting from a specified from a seed.
@@ -66,7 +67,7 @@ This was a really interesting tool that I had difficulty with at first but I rea
 - Have to use emulated browser with is hassle
 - Emulated browser also has some lag time to loading
 
-#### Situations to prefer this tool
+### Situations to prefer this tool
 
 I would rate this tool 2nd out of the four tools. It was simple because all you do is browse in your browser like you normally would but it gets to capture almost everything that you look at which is really interesting.
 I would prefer this tool in terms of speed because I get the material that I was viewing and want to view again, and only that material.
@@ -74,22 +75,30 @@ I would prefer this tool in terms of speed because I get the material that I was
 
 ## WAIL
 
-I thought this tool was nice
+This application was downloaded and used on my macbook pro.
+It provides a GUI which I can use to insert and
 
 ### Advantages
 
 - Can crawl multiple seeds at a time
 - Offline access for processing WARCS
 - Local server for viewing WARCS
+- Easy storing of collections locally
+- Simple collection name search
+- Crawl depth options
 
 ### Disadvantages
 
 - Single seed insert at a time
 - UI lacking a bit not showing
 - Plays sound of video in background while processing WARC
+- Doesn't store videos
 
-#### Situations to prefer this tool
+### Situations to prefer this tool
 
+I think I would rate WAIL 3rd out of the four choices for tools to use.
+I would prefer this tool in situations where I wanted to work locally to look back at WARCS.
+It provides a nice interface to view WARCS and they render in my browser when I'm offline.
 
 
 ## WARCreate / WAIL
@@ -108,8 +117,12 @@ Although I couldn't actually use WARCreate with my last two seeds, cnn.com and t
 - No visual indicators of WARC creation in progress
 - No fail messages in WARC creation
 - Unsure if it downloads in the background if page closed
+- Size comparison of WARCS created by WAIL and WARCreate is massive
+- WARC transferred to WAIL not really working as shown below
 
-#### Situations to prefer this tool
+![alt text](./images/warcreate_warc_error.png)
+
+### Situations to prefer this tool
 
 Although I would rate WARCreate last of the four tools, I think its a remarkably simple tool.
 I would use this tool in situations where I wanted a quick WARC file, but not for a age that has a ton of content.
@@ -130,4 +143,6 @@ However over time it became a 404 webpage which is interesting because I can't r
 
 ![alt text](./images/miami_herald404.png)
 
-Someone interested in this period of Catalonia trying to gain independence can look back at my collection to see what kind of events and talks were brewing on the buildup to this event.
+The original can be replayed on my [Webrecorder replay](https://webrecorder.io/grantat/catalonia-independence/20171010161134/http://www.miamiherald.com/news/business/article177373796.html).
+
+Someone interested in this period of Catalonia trying to gain independence can look back at my collection to see what kind of events and talks were building up to the decision of Catalonia deciding on independence.
