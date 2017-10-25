@@ -36,7 +36,7 @@ I'd have to say this is my favorite tool overall as it provided a unique simplic
 - Start and walk away without worrying
 - Automatically prevents duplicate pages and multimedia
 - Allows scheduling of crawls
-- Crawl depth options
+- Crawl depth options for all seeds
 
 ### Disadvantages
 
@@ -59,6 +59,7 @@ This was a really interesting tool that I had difficulty with at first but I rea
 - Can render pages from native and emulated browser
 - Stores videos only if you play them
 - Handles CNN archiving very well
+- Quickly compare previous recordings
 
 ### Disadvantages
 
@@ -66,6 +67,7 @@ This was a really interesting tool that I had difficulty with at first but I rea
 - Lots of bugs with plugins blocking some content
 - Have to use emulated browser with is hassle
 - Emulated browser also has some lag time to loading
+
 
 ### Situations to prefer this tool
 
@@ -75,8 +77,8 @@ I would prefer this tool in terms of speed because I get the material that I was
 
 ## WAIL
 
-This application was downloaded and used on my macbook pro.
-It provides a GUI which I can use to insert and
+This application was downloaded and used on my Macbook pro.
+It provides a GUI which I can use to insert seeds and specify depth in a simple fashion for each seed.
 
 ### Advantages
 
@@ -85,7 +87,7 @@ It provides a GUI which I can use to insert and
 - Local server for viewing WARCS
 - Easy storing of collections locally
 - Simple collection name search
-- Crawl depth options
+- Crawl depth options for each seed
 
 ### Disadvantages
 
@@ -118,9 +120,13 @@ Although I couldn't actually use WARCreate with my last two seeds, cnn.com and t
 - No fail messages in WARC creation
 - Unsure if it downloads in the background if page closed
 - Size comparison of WARCS created by WAIL and WARCreate is massive
+
+![alt text](./images/wail_compare.png)
+
 - WARC transferred to WAIL not really working as shown below
 
 ![alt text](./images/warcreate_warc_error.png)
+
 
 ### Situations to prefer this tool
 
@@ -146,3 +152,12 @@ However over time it became a 404 webpage which is interesting because I can't r
 The original can be replayed on my [Webrecorder replay](https://webrecorder.io/grantat/catalonia-independence/20171010161134/http://www.miamiherald.com/news/business/article177373796.html).
 
 Someone interested in this period of Catalonia trying to gain independence can look back at my collection to see what kind of events and talks were building up to the decision of Catalonia deciding on independence.
+
+Document changes, aside from the first seed with a 404 response, were pretty apparent for ads, recommendations, and trending sections.
+Since I took all of my seeds from News sites document changes were only really noted due to these as shown below for one of my [cnn seeds](http://money.cnn.com/2017/09/29/news/economy/catalonia-independence-spain-economy/index.html).
+
+Before:
+![alt text](./images/ads_orig.png)
+
+After:
+![alt text](./images/ads_now.png)
